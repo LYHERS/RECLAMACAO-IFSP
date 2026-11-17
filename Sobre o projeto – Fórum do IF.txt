@@ -1,0 +1,31 @@
+ Sobre o projeto – Fórum do IF
+
+Desenvolvimento de um site de fórum institucional para o Instituto Federal (IF), com o objetivo de proporcionar um espaço organizado, seguro e acessível para que os alunos possam registrar reclamações, sugestões e avaliações sobre diferentes aspectos da instituição.
+
+O site contará com uma aba específica para reclamações, na qual o usuário poderá escolher entre duas formas de identificação: realizar a reclamação de maneira anônima ou informar seu nome.
+
+As reclamações serão acessíveis apenas às autoridades responsáveis, que terão acesso geral à plataforma para visualizar, acompanhar e administrar as manifestações enviadas pelos alunos, garantindo a privacidade dos usuários.
+
+ Funcionalidades principais
+
+- Registro de reclamações: espaço para o aluno escrever e detalhar sua reclamação.
+- Identificação: opção de enviar a reclamação anonimamente ou informar seu nome.
+- Classificação por categoria: o usuário poderá selecionar o assunto da reclamação, como:
+  - Professores;
+  - Disciplinas/matérias;
+  - Cantina;
+  - Infraestrutura;
+  - Atendimento;
+  - Outros.
+- Nível de avaliação: possibilidade de atribuir uma nota de 0 a 5, indicando o nível de insatisfação ou a intensidade da opinião sobre o assunto.
+- Acompanhamento das reclamações: as autoridades responsáveis poderão visualizar e atualizar o andamento de cada reclamação.
+- Status de conclusão: cada reclamação terá um indicador visual para informar sua situação:
+  - Pendente Reclamação ainda não resolvida.
+  - Em andamento Reclamação em processo de análise ou resolução.
+  - Concluída ✓ Reclamação resolvida e finalizada.
+
+ Objetivo do projeto
+
+O principal objetivo é criar um canal de comunicação entre os estudantes e a administração do Instituto Federal, permitindo que os alunos expressem suas insatisfações e opiniões de maneira organizada e, se desejarem, anônima.
+
+Além disso, a plataforma busca facilitar a identificação de problemas recorrentes, contribuir para a melhoria do ambiente acadêmico e permitir que os estudantes acompanhem se suas reclamações estão sendo analisadas e resolvidas.
